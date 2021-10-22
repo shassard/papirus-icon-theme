@@ -76,10 +76,12 @@ fi
 %defattr(-,root,root)
 %doc LICENSE README.md
 %{_datadir}/icons/ePapirus
+%{_datadir}/icons/ePapirus-Dark
 %{_datadir}/icons/Papirus
 %{_datadir}/icons/Papirus-Dark
 %{_datadir}/icons/Papirus-Light
 %ghost %{_datadir}/icons/ePapirus/icon-theme.cache
+%ghost %{_datadir}/icons/ePapirus-Dark/icon-theme.cache
 %ghost %{_datadir}/icons/Papirus/icon-theme.cache
 %ghost %{_datadir}/icons/Papirus-Dark/icon-theme.cache
 %ghost %{_datadir}/icons/Papirus-Light/icon-theme.cache
