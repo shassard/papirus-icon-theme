@@ -12,7 +12,7 @@
 
 
 Name:           papirus-icon-theme
-Version:        20211201
+Version:        20220101
 Release:        1
 License:        LGPLv3
 Summary:        Papirus icon theme
@@ -87,6 +87,8 @@ fi
 %ghost %{_datadir}/icons/Papirus-Light/icon-theme.cache
 
 %changelog
+* Sun Jan 30 2022 Stephen Hassard <steve@hassard.net> - 20220101
+- Bump to 20220101
 * Thu Dec 23 2021 Stephen Hassard <steve@hassard.net> - 20211201
 - Update to upstream 20211201
 * Fri Oct 22 2021 Stephen Hassard <steve@hassard.net> - 20211001
